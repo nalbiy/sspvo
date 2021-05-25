@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentCategories>
+  <DocumentCategory>
+    <ID>7</ID>
+    <Actual>true</Actual>
+    <Name>Тип диплома в области спорта</Name>
+  </DocumentCategory>
+  <DocumentCategory>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Основание для оценки</Name>
+  </DocumentCategory>
+  <DocumentCategory>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Документ об образовании</Name>
+  </DocumentCategory>
+  <DocumentCategory>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>Основание для льготы</Name>
+  </DocumentCategory>
+  <DocumentCategory>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Name>Дополнительные сведения</Name>
+  </DocumentCategory>
+  <DocumentCategory>
+    <ID>6</ID>
+    <Actual>true</Actual>
+    <Name>Иные</Name>
+  </DocumentCategory>
+  <DocumentCategory>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>﻿Удостоверяющие личность</Name>
+  </DocumentCategory>
+</DocumentCategories>

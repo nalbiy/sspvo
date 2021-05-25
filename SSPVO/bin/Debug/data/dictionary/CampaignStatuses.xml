@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CampaignStatuses>
+  <CampaignStatus>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Завершена</Name>
+    <Code>finish</Code>
+  </CampaignStatus>
+  <CampaignStatus>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Идет набор</Name>
+    <Code>continue</Code>
+  </CampaignStatus>
+  <CampaignStatus>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>Набор не начался</Name>
+    <Code>not_started</Code>
+  </CampaignStatus>
+</CampaignStatuses>

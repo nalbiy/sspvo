@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParentsLostCategories>
+  <ParentsLostCategory>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Герои СССР, Герои РФ и полным кавалерам ордена Славы</Name>
+  </ParentsLostCategory>
+  <ParentsLostCategory>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники органов внутренних дел РФ</Name>
+  </ParentsLostCategory>
+  <ParentsLostCategory>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники Федеральной службы войск национальной гвардии РФ</Name>
+  </ParentsLostCategory>
+  <ParentsLostCategory>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники органов уголовно-исполнительной системы</Name>
+  </ParentsLostCategory>
+  <ParentsLostCategory>
+    <ID>6</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники федеральной противопожарной службы Государственной противопожарной службы</Name>
+  </ParentsLostCategory>
+  <ParentsLostCategory>
+    <ID>7</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники органов по контролю за оборотом наркотических средств и психотропных веществ</Name>
+  </ParentsLostCategory>
+  <ParentsLostCategory>
+    <ID>8</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники таможенных органов</Name>
+  </ParentsLostCategory>
+  <ParentsLostCategory>
+    <ID>9</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники Следственного комитета РФ</Name>
+  </ParentsLostCategory>
+  <ParentsLostCategory>
+    <ID>10</ID>
+    <Actual>true</Actual>
+    <Name>Прокурорские работники</Name>
+  </ParentsLostCategory>
+  <ParentsLostCategory>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>﻿Военнослужащие</Name>
+  </ParentsLostCategory>
+</ParentsLostCategories>

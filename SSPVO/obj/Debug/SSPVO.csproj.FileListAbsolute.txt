@@ -1,0 +1,14 @@
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\bin\Debug\SSPVO.exe.config
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\obj\Debug\SSPVO.csprojResolveAssemblyReference.cache
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\obj\Debug\SSPVO.Forms.Main.resources
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\obj\Debug\SSPVO.Properties.Resources.resources
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\obj\Debug\SSPVO.csproj.GenerateResource.Cache
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\bin\Debug\SSPVO.exe
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\bin\Debug\SSPVO.pdb
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\bin\Debug\Newtonsoft.Json.dll
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\bin\Debug\Newtonsoft.Json.xml
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\obj\Debug\SSPVO.exe
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\obj\Debug\SSPVO.pdb
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\obj\Debug\SSPVO.Forms.DictionaryForm.resources
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\obj\Debug\SSPVO.Forms.DictionaryItemForm.resources
+F:\Work\VS\C#\My projects\SSPVO\SSPVO\obj\Debug\SSPVO.Forms.SendCustomRequestForm.resources

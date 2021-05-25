@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OlympicTypes>
+  <OlympicType>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Творческая олимпиада</Name>
+  </OlympicType>
+  <OlympicType>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Олимпиада в области спорта</Name>
+  </OlympicType>
+  <OlympicType>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>Типовая олимпиада</Name>
+  </OlympicType>
+</OlympicTypes>

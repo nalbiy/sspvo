@@ -1,0 +1,999 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OlympicsProfilesList>
+  <OlympicProfileItem>
+    <ID>8</ID>
+    <Actual>true</Actual>
+    <Name>химия</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>39</ID>
+    <Actual>true</Actual>
+    <Name>философия</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>96</ID>
+    <Actual>true</Actual>
+    <Name>духовые инструменты</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>48</ID>
+    <Actual>true</Actual>
+    <Name>рисунок, архитектурная композиция, живопись, дизайн</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>49</ID>
+    <Actual>true</Actual>
+    <Name>рисунок, живопись, скульптура</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>50</ID>
+    <Actual>true</Actual>
+    <Name>астрономия и науки о Земле</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>51</ID>
+    <Actual>true</Actual>
+    <Name>рисунок, композиция, живопись, черчение</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>52</ID>
+    <Actual>true</Actual>
+    <Name>техника и технология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>53</ID>
+    <Actual>true</Actual>
+    <Name>экономика и управление</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>54</ID>
+    <Actual>true</Actual>
+    <Name>теория и история музыки</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>55</ID>
+    <Actual>true</Actual>
+    <Name>струнные инструменты</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>57</ID>
+    <Actual>true</Actual>
+    <Name>физика и астрономия</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>58</ID>
+    <Actual>true</Actual>
+    <Name>биология и экология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>59</ID>
+    <Actual>true</Actual>
+    <Name>государственный аудит</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>60</ID>
+    <Actual>true</Actual>
+    <Name>рисунок, живопись, композиция, история искусства и культуры</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>61</ID>
+    <Actual>true</Actual>
+    <Name>рисунок и композиция</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>97</ID>
+    <Actual>true</Actual>
+    <Name>немецкий язык</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>98</ID>
+    <Actual>true</Actual>
+    <Name>французский язык</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>99</ID>
+    <Actual>true</Actual>
+    <Name>физическая культура</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>100</ID>
+    <Actual>true</Actual>
+    <Name>технология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>101</ID>
+    <Actual>true</Actual>
+    <Name>искусство (МХК)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>102</ID>
+    <Actual>true</Actual>
+    <Name>ОБЖ</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>103</ID>
+    <Actual>true</Actual>
+    <Name>испанский язык</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>104</ID>
+    <Actual>true</Actual>
+    <Name>итальянский язык</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>106</ID>
+    <Actual>true</Actual>
+    <Name>право (обществознание)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>108</ID>
+    <Actual>true</Actual>
+    <Name>музыкальная педагогика и исполнительство (фортепиано)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>109</ID>
+    <Actual>true</Actual>
+    <Name>педагогика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>110</ID>
+    <Actual>true</Actual>
+    <Name>графический дизайн</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>111</ID>
+    <Actual>true</Actual>
+    <Name>восточные языки</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>112</ID>
+    <Actual>true</Actual>
+    <Name>компьютерная безопасность</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>62</ID>
+    <Actual>true</Actual>
+    <Name>механика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>63</ID>
+    <Actual>true</Actual>
+    <Name>рисунок, архитектурная графика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>70</ID>
+    <Actual>true</Actual>
+    <Name>струнные  инструменты</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>269</ID>
+    <Actual>true</Actual>
+    <Name>архитектура, изобразительные и прикладные виды искусств</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>270</ID>
+    <Actual>true</Actual>
+    <Name>искусство, черчение</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>271</ID>
+    <Actual>true</Actual>
+    <Name>основы бизнеса</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>272</ID>
+    <Actual>true</Actual>
+    <Name>финансовая грамотность</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>273</ID>
+    <Actual>true</Actual>
+    <Name>криптография</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>274</ID>
+    <Actual>true</Actual>
+    <Name>история искусства</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>275</ID>
+    <Actual>true</Actual>
+    <Name>большие данные и машинное обучение</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>87</ID>
+    <Actual>true</Actual>
+    <Name>рисунок, живопись, композиция, дизайн</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>88</ID>
+    <Actual>true</Actual>
+    <Name>черчение (архитектурная графика)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>90</ID>
+    <Actual>true</Actual>
+    <Name>техника и технологии кораблестроения и водного транспорта</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>91</ID>
+    <Actual>true</Actual>
+    <Name>машиностроение</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>92</ID>
+    <Actual>true</Actual>
+    <Name>авиационная и ракетно-космическая техника</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>93</ID>
+    <Actual>true</Actual>
+    <Name>ядерная энергетика и технологии</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>94</ID>
+    <Actual>true</Actual>
+    <Name>технологии материалов</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>95</ID>
+    <Actual>true</Actual>
+    <Name>рисунок, живопись, композиция, черчение</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>105</ID>
+    <Actual>true</Actual>
+    <Name>китайский язык</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>107</ID>
+    <Actual>true</Actual>
+    <Name>искусство</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>22</ID>
+    <Actual>true</Actual>
+    <Name>экономика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>23</ID>
+    <Actual>true</Actual>
+    <Name>электроника</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>24</ID>
+    <Actual>true</Actual>
+    <Name>графика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>25</ID>
+    <Actual>true</Actual>
+    <Name>композиция</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>26</ID>
+    <Actual>true</Actual>
+    <Name>рисунок</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>27</ID>
+    <Actual>true</Actual>
+    <Name>техника и технологии</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>28</ID>
+    <Actual>true</Actual>
+    <Name>геология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>29</ID>
+    <Actual>true</Actual>
+    <Name>астрономия</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>30</ID>
+    <Actual>true</Actual>
+    <Name>лингвистика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>31</ID>
+    <Actual>true</Actual>
+    <Name>филология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>32</ID>
+    <Actual>true</Actual>
+    <Name>основы православной культуры</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>36</ID>
+    <Actual>true</Actual>
+    <Name>экология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>295</ID>
+    <Actual>true</Actual>
+    <Name>генетика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>296</ID>
+    <Actual>true</Actual>
+    <Name>история искусств</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>297</ID>
+    <Actual>true</Actual>
+    <Name>предпрофессиона-льная</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>33</ID>
+    <Actual>true</Actual>
+    <Name>академический рисунок, живопись, композиция, история искусства и культуры</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>283</ID>
+    <Actual>true</Actual>
+    <Name>космонавтика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>284</ID>
+    <Actual>true</Actual>
+    <Name>информационные технологии</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>285</ID>
+    <Actual>true</Actual>
+    <Name>Анализ космических снимков и геопространственных данных</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>286</ID>
+    <Actual>true</Actual>
+    <Name>Аэрокосмические системы</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>287</ID>
+    <Actual>true</Actual>
+    <Name>Информационная безопасность</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>288</ID>
+    <Actual>true</Actual>
+    <Name>Нейротехнологии и когнитивные науки</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>289</ID>
+    <Actual>true</Actual>
+    <Name>Передовые производственные технологии</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>291</ID>
+    <Actual>true</Actual>
+    <Name>Компьютерное моделирование и графика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>292</ID>
+    <Actual>true</Actual>
+    <Name>Культурология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>293</ID>
+    <Actual>true</Actual>
+    <Name>предпрофессиональная</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>294</ID>
+    <Actual>true</Actual>
+    <Name>программирование</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>нанотехнологии</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>естественные науки</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>инженерные науки</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Name>биология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>6</ID>
+    <Actual>true</Actual>
+    <Name>информатика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>7</ID>
+    <Actual>true</Actual>
+    <Name>математика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>9</ID>
+    <Actual>true</Actual>
+    <Name>география</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>10</ID>
+    <Actual>true</Actual>
+    <Name>иностранный язык</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>113</ID>
+    <Actual>true</Actual>
+    <Name>автономные транспортные системы, интеллектуальные энергетические системы, системы связи и дистанционного зондирования Земли, большие данные и машинное обучение</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>114</ID>
+    <Actual>true</Actual>
+    <Name>инженерные системы</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>115</ID>
+    <Actual>true</Actual>
+    <Name>комплекс предметов (рисунок, живопись, черчение, архитектура, дизайн)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>116</ID>
+    <Actual>true</Actual>
+    <Name>рисунок, живопись, скульптура, дизайн</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>255</ID>
+    <Actual>true</Actual>
+    <Name>все профили</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>257</ID>
+    <Actual>true</Actual>
+    <Name>музыкальная педагогика и исполнительство</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>258</ID>
+    <Actual>true</Actual>
+    <Name>педагогические науки и образование</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>259</ID>
+    <Actual>true</Actual>
+    <Name>электроника и вычислительная техника</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>76</ID>
+    <Actual>true</Actual>
+    <Name>лингвистика (русский язык, иностранные языки)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>77</ID>
+    <Actual>true</Actual>
+    <Name>иностранный язык (английский)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>78</ID>
+    <Actual>true</Actual>
+    <Name>медицина (химия, биология)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>79</ID>
+    <Actual>true</Actual>
+    <Name>техника и технология (физика)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>80</ID>
+    <Actual>true</Actual>
+    <Name>иностранные языки (английский, испанский, немецкий, французский)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>81</ID>
+    <Actual>true</Actual>
+    <Name>биохимия и биотехнология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>82</ID>
+    <Actual>true</Actual>
+    <Name>математика, физика, информатика и ИКТ, химия</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>84</ID>
+    <Actual>true</Actual>
+    <Name>химия, биология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>85</ID>
+    <Actual>true</Actual>
+    <Name>живопись, рисунок, композиция</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>86</ID>
+    <Actual>true</Actual>
+    <Name>металлургия и материаловедение</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>89</ID>
+    <Actual>true</Actual>
+    <Name>композиция (рисунок)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>11</ID>
+    <Actual>true</Actual>
+    <Name>право</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>64</ID>
+    <Actual>true</Actual>
+    <Name>иностранные языки</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>65</ID>
+    <Actual>true</Actual>
+    <Name>инструменты народного оркестра</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>66</ID>
+    <Actual>true</Actual>
+    <Name>астрономия и физика космоса</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>67</ID>
+    <Actual>true</Actual>
+    <Name>информатика и ИКТ</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>68</ID>
+    <Actual>true</Actual>
+    <Name>математика, физика, астрономия и науки о земле, лингвистика, история, литература, биология, химия</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>69</ID>
+    <Actual>true</Actual>
+    <Name>химия, физика, математика, биология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>12</ID>
+    <Actual>true</Actual>
+    <Name>гуманитарные и социальные науки</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>13</ID>
+    <Actual>true</Actual>
+    <Name>русский язык</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>14</ID>
+    <Actual>true</Actual>
+    <Name>история</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>15</ID>
+    <Actual>true</Actual>
+    <Name>востоковедение</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>16</ID>
+    <Actual>true</Actual>
+    <Name>дизайн</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>17</ID>
+    <Actual>true</Actual>
+    <Name>журналистика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>18</ID>
+    <Actual>true</Actual>
+    <Name>история мировых цивилизаций</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>19</ID>
+    <Actual>true</Actual>
+    <Name>литература</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>20</ID>
+    <Actual>true</Actual>
+    <Name>обществознание</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>21</ID>
+    <Actual>true</Actual>
+    <Name>психология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>34</ID>
+    <Actual>true</Actual>
+    <Name>технический рисунок и декоративная композиция</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>35</ID>
+    <Actual>true</Actual>
+    <Name>механика и математическое моделирование</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>37</ID>
+    <Actual>true</Actual>
+    <Name>международные отношения и глобалистика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>38</ID>
+    <Actual>true</Actual>
+    <Name>политология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>40</ID>
+    <Actual>true</Actual>
+    <Name>история российской государственности</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>41</ID>
+    <Actual>true</Actual>
+    <Name>робототехника</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>42</ID>
+    <Actual>true</Actual>
+    <Name>архитектурная графика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>43</ID>
+    <Actual>true</Actual>
+    <Name>инженерное дело</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>44</ID>
+    <Actual>true</Actual>
+    <Name>медицина</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>45</ID>
+    <Actual>true</Actual>
+    <Name>проба пера</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>46</ID>
+    <Actual>true</Actual>
+    <Name>социология</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>47</ID>
+    <Actual>true</Actual>
+    <Name>комплекс предметов (рисунок, композиция)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>56</ID>
+    <Actual>true</Actual>
+    <Name>хоровое дирижирование</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>260</ID>
+    <Actual>true</Actual>
+    <Name>изобразительное искусство</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>261</ID>
+    <Actual>true</Actual>
+    <Name>автономные транспортные системы</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>262</ID>
+    <Actual>true</Actual>
+    <Name>беспилотные авиационные системы</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>263</ID>
+    <Actual>true</Actual>
+    <Name>инженерные биологические системы</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>264</ID>
+    <Actual>true</Actual>
+    <Name>интеллектуальные робототехнические системы</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>265</ID>
+    <Actual>true</Actual>
+    <Name>системы связи и дистанционного зондирования Земли</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>266</ID>
+    <Actual>true</Actual>
+    <Name>технологии беспроводной связи</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>267</ID>
+    <Actual>true</Actual>
+    <Name>электронная инженерия: Умный дом</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>268</ID>
+    <Actual>true</Actual>
+    <Name>ядерные технологии</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>277</ID>
+    <Actual>true</Actual>
+    <Name>интеллектуальные энергетические системы</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>278</ID>
+    <Actual>true</Actual>
+    <Name>наносистемы и наноинженерия</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>279</ID>
+    <Actual>true</Actual>
+    <Name>нейротехнологии</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>280</ID>
+    <Actual>true</Actual>
+    <Name>программная инженерия финансовых технологий</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>281</ID>
+    <Actual>true</Actual>
+    <Name>разработка приложений виртуальной и дополненной реальности</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>282</ID>
+    <Actual>true</Actual>
+    <Name>умный город</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>290</ID>
+    <Actual>true</Actual>
+    <Name>Комплекс предметов (физика, информатика, математика)</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>276</ID>
+    <Actual>true</Actual>
+    <Name>водные робототехнические системы</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>физика</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>71</ID>
+    <Actual>true</Actual>
+    <Name>фортепиано</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>72</ID>
+    <Actual>true</Actual>
+    <Name>народные инструменты</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>73</ID>
+    <Actual>true</Actual>
+    <Name>право, обществознание</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>74</ID>
+    <Actual>true</Actual>
+    <Name>иностранные языки: английский, испанский, китайский, немецкий, французский</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>75</ID>
+    <Actual>true</Actual>
+    <Name>экономика, обществознание</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>83</ID>
+    <Actual>true</Actual>
+    <Name>английский язык</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>298</ID>
+    <Actual>true</Actual>
+    <Name>автоматизация бизнес-процессов</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>299</ID>
+    <Actual>true</Actual>
+    <Name>геномное редактирование</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>300</ID>
+    <Actual>true</Actual>
+    <Name>инженерные биологические системы: агробиотехнологии</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>301</ID>
+    <Actual>true</Actual>
+    <Name>искусственный интеллект</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>302</ID>
+    <Actual>true</Actual>
+    <Name>композитные технологии</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>303</ID>
+    <Actual>true</Actual>
+    <Name>летающая робототехника</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>304</ID>
+    <Actual>true</Actual>
+    <Name>спутниковые системы</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+  <OlympicProfileItem>
+    <ID>305</ID>
+    <Actual>true</Actual>
+    <Name>информационные и коммуникационные технологии</Name>
+    <IDAuthor>0</IDAuthor>
+  </OlympicProfileItem>
+</OlympicsProfilesList>

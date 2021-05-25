@@ -1,0 +1,1298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subjects>
+  <Subject>
+    <ID>121</ID>
+    <Actual>true</Actual>
+    <Name>радиофизика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>12</ID>
+    <Actual>true</Actual>
+    <Name>Немецкий язык</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>13</ID>
+    <Actual>true</Actual>
+    <Name>Французcкий язык</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>14</ID>
+    <Actual>true</Actual>
+    <Name>Испанский язык</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>Биология</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Name>География</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>7</ID>
+    <Actual>true</Actual>
+    <Name>История</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>8</ID>
+    <Actual>true</Actual>
+    <Name>Литература</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>9</ID>
+    <Actual>true</Actual>
+    <Name>Обществознание</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>10</ID>
+    <Actual>true</Actual>
+    <Name>Физика</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>11</ID>
+    <Actual>true</Actual>
+    <Name>Химия</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>186</ID>
+    <Actual>true</Actual>
+    <Name>Английский язык (устный)</Name>
+    <Olympic>false</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>187</ID>
+    <Actual>true</Actual>
+    <Name>Немецкий язык (устный)</Name>
+    <Olympic>false</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>32</ID>
+    <Actual>true</Actual>
+    <Name>Краеведение</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>114</ID>
+    <Actual>true</Actual>
+    <Name>профессиональное обучение</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>188</ID>
+    <Actual>true</Actual>
+    <Name>Французcкий язык (устный)</Name>
+    <Olympic>false</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>189</ID>
+    <Actual>true</Actual>
+    <Name>Испанский язык (устный)</Name>
+    <Olympic>false</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>190</ID>
+    <Actual>true</Actual>
+    <Name>Китайский язык (устный)</Name>
+    <Olympic>false</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>128</ID>
+    <Actual>true</Actual>
+    <Name>управление персоналом</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>129</ID>
+    <Actual>true</Actual>
+    <Name>государственное и муниципальное управление</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>130</ID>
+    <Actual>true</Actual>
+    <Name>бизнес-информатика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>131</ID>
+    <Actual>true</Actual>
+    <Name>Иностранный язык - итальянский</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>145</ID>
+    <Actual>true</Actual>
+    <Name>медицинская биофизика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>179</ID>
+    <Actual>true</Actual>
+    <Name>электроника и автоматика физических установок</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>77</ID>
+    <Actual>true</Actual>
+    <Name>педагогическое образование</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>79</ID>
+    <Actual>true</Actual>
+    <Name>информационная безопасность</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>80</ID>
+    <Actual>true</Actual>
+    <Name>компьютерные и информационные науки</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>81</ID>
+    <Actual>true</Actual>
+    <Name>биологические науки</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>84</ID>
+    <Actual>true</Actual>
+    <Name>фотоника</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>91</ID>
+    <Actual>true</Actual>
+    <Name>техносферная безопасность и природообустройство</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>92</ID>
+    <Actual>true</Actual>
+    <Name>прикладная геология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>93</ID>
+    <Actual>true</Actual>
+    <Name>горное дело</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>94</ID>
+    <Actual>true</Actual>
+    <Name>нефтегазовое дело и геодезия</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>95</ID>
+    <Actual>true</Actual>
+    <Name>аэронавигация и эксплуатация авиационной и ракетно-космической техники</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>147</ID>
+    <Actual>true</Actual>
+    <Name>педиатрия</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>40</ID>
+    <Actual>true</Actual>
+    <Name>Всеобщая история</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>41</ID>
+    <Actual>true</Actual>
+    <Name>Музыкальное искусство</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>143</ID>
+    <Actual>true</Actual>
+    <Name>фундаментальная и прикладная химия (укрупненная группа подготовки химия)</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>180</ID>
+    <Actual>true</Actual>
+    <Name>агроинженерия</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>181</ID>
+    <Actual>true</Actual>
+    <Name>Повар, кондитер</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>30</ID>
+    <Actual>true</Actual>
+    <Name>Родной язык</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>36</ID>
+    <Actual>true</Actual>
+    <Name>Геометрия</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>37</ID>
+    <Actual>true</Actual>
+    <Name>Естествознание</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>39</ID>
+    <Actual>true</Actual>
+    <Name>История России</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>126</ID>
+    <Actual>true</Actual>
+    <Name>гостиничное дело</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>127</ID>
+    <Actual>true</Actual>
+    <Name>менеджмент</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>183</ID>
+    <Actual>true</Actual>
+    <Name>Сочинение</Name>
+    <Olympic>false</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>184</ID>
+    <Actual>true</Actual>
+    <Name>Изложение</Name>
+    <Olympic>false</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>6</ID>
+    <Actual>true</Actual>
+    <Name>Иностранный язык</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>47</ID>
+    <Actual>true</Actual>
+    <Name>Геология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>73</ID>
+    <Actual>true</Actual>
+    <Name>дирижирование</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>74</ID>
+    <Actual>true</Actual>
+    <Name>физика и механика материалов</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>75</ID>
+    <Actual>true</Actual>
+    <Name>фармация</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>22</ID>
+    <Actual>true</Actual>
+    <Name>Экология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>82</ID>
+    <Actual>true</Actual>
+    <Name>техника и технологии строительства</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>83</ID>
+    <Actual>true</Actual>
+    <Name>информатика и вычислительная техника</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>85</ID>
+    <Actual>true</Actual>
+    <Name>приборостроение</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>86</ID>
+    <Actual>true</Actual>
+    <Name>оптические и биотехнические  системы и технологии</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>87</ID>
+    <Actual>true</Actual>
+    <Name>электро- и теплоэнергетика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>88</ID>
+    <Actual>true</Actual>
+    <Name>оружие и системы вооружения</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>89</ID>
+    <Actual>true</Actual>
+    <Name>химические технологии</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>90</ID>
+    <Actual>true</Actual>
+    <Name>промышленная экология и биотехнологии</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Математика</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>20</ID>
+    <Actual>true</Actual>
+    <Name>Технология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>21</ID>
+    <Actual>true</Actual>
+    <Name>Физическая культура</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>23</ID>
+    <Actual>true</Actual>
+    <Name>Экономика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>25</ID>
+    <Actual>true</Actual>
+    <Name>Основы православной культуры</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>26</ID>
+    <Actual>true</Actual>
+    <Name>Востоковедение</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>42</ID>
+    <Actual>true</Actual>
+    <Name>Изобразительное искусство</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>44</ID>
+    <Actual>true</Actual>
+    <Name>Компьютерная безопасность</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>45</ID>
+    <Actual>true</Actual>
+    <Name>Востоковедение и африканистика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>46</ID>
+    <Actual>true</Actual>
+    <Name>Инфокоммуникационные технологии и системы связи</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>48</ID>
+    <Actual>true</Actual>
+    <Name>Теология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>50</ID>
+    <Actual>true</Actual>
+    <Name>Фундаментальные математика, механика и информатика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>51</ID>
+    <Actual>true</Actual>
+    <Name>Юриспруденция</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>53</ID>
+    <Actual>true</Actual>
+    <Name>Робототехника</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>54</ID>
+    <Actual>true</Actual>
+    <Name>Градостроительство</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>59</ID>
+    <Actual>true</Actual>
+    <Name>Техника и технологии кораблестроения и водного транспорта</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>61</ID>
+    <Actual>true</Actual>
+    <Name>Техника и технологии наземного транспорта</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Информатика и ИКТ</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>62</ID>
+    <Actual>true</Actual>
+    <Name>Почвоведение</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>15</ID>
+    <Actual>true</Actual>
+    <Name>Астрономия</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>16</ID>
+    <Actual>true</Actual>
+    <Name>Искусство</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>17</ID>
+    <Actual>true</Actual>
+    <Name>Лингвистика</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>19</ID>
+    <Actual>true</Actual>
+    <Name>Право</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>96</ID>
+    <Actual>true</Actual>
+    <Name>управление в технических системах</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>97</ID>
+    <Actual>true</Actual>
+    <Name>нанотехнологии и наноматериалы</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>98</ID>
+    <Actual>true</Actual>
+    <Name>технологии легкой промышленности</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>99</ID>
+    <Actual>true</Actual>
+    <Name>сельское, лесное и рыбное хозяйство</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>100</ID>
+    <Actual>true</Actual>
+    <Name>экономика и управление</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>101</ID>
+    <Actual>true</Actual>
+    <Name>нефтегазовое дело</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>102</ID>
+    <Actual>true</Actual>
+    <Name>филология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>27</ID>
+    <Actual>true</Actual>
+    <Name>Дизайн</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>28</ID>
+    <Actual>true</Actual>
+    <Name>Журналистика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>124</ID>
+    <Actual>true</Actual>
+    <Name>сервис и туризм</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>125</ID>
+    <Actual>true</Actual>
+    <Name>социология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>185</ID>
+    <Actual>true</Actual>
+    <Name>Математика базовая</Name>
+    <Olympic>false</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>33</ID>
+    <Actual>true</Actual>
+    <Name>ОБЖ</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>132</ID>
+    <Actual>true</Actual>
+    <Name>Избранные задачи по планиметрии</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>133</ID>
+    <Actual>true</Actual>
+    <Name>Уроки словесности</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>134</ID>
+    <Actual>true</Actual>
+    <Name>Профессиональное самоопределение школьников</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>135</ID>
+    <Actual>true</Actual>
+    <Name>Мировая художественная культура</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>136</ID>
+    <Actual>true</Actual>
+    <Name>Основы Российского законодательства</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>146</ID>
+    <Actual>true</Actual>
+    <Name>лечебное дело</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>137</ID>
+    <Actual>true</Actual>
+    <Name>Техническая графика</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>138</ID>
+    <Actual>true</Actual>
+    <Name>искусство концертного исполнительства (концертные народные инструменты)</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>139</ID>
+    <Actual>true</Actual>
+    <Name>музыкознание и музыкально-прикладное искусство (музыкальная педагогика)</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>140</ID>
+    <Actual>true</Actual>
+    <Name>искусство концертного исполнительства (концертные струнные инструменты)</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>55</ID>
+    <Actual>true</Actual>
+    <Name>Машиностроение</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>56</ID>
+    <Actual>true</Actual>
+    <Name>Технологии материалов</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>57</ID>
+    <Actual>true</Actual>
+    <Name>Авиационная и ракетно-космическая техника</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>58</ID>
+    <Actual>true</Actual>
+    <Name>Ядерная энергетика и технологии</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>60</ID>
+    <Actual>true</Actual>
+    <Name>Электроника, радиотехника и системы связи</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>141</ID>
+    <Actual>true</Actual>
+    <Name>музыкознание и музыкально-прикладное искусство (музыкальная журналистика и редакторская деятельность в средствах массовой информации)</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>142</ID>
+    <Actual>true</Actual>
+    <Name>дирижирование (дирижирование академическим хором)</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>29</ID>
+    <Actual>true</Actual>
+    <Name>психология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>31</ID>
+    <Actual>true</Actual>
+    <Name>Граждановедение</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>34</ID>
+    <Actual>true</Actual>
+    <Name>Черчение</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>35</ID>
+    <Actual>true</Actual>
+    <Name>Алгебра</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>49</ID>
+    <Actual>true</Actual>
+    <Name>Фундаментальные математика и механика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>52</ID>
+    <Actual>true</Actual>
+    <Name>Архитектура</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>103</ID>
+    <Actual>true</Actual>
+    <Name>физико-технические науки и технологии</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>104</ID>
+    <Actual>true</Actual>
+    <Name>монументально-декоративное искусство</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>105</ID>
+    <Actual>true</Actual>
+    <Name>декоративно-прикладное искусство и народные промыслы</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>106</ID>
+    <Actual>true</Actual>
+    <Name>технология художественной обработки материалов</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>107</ID>
+    <Actual>true</Actual>
+    <Name>искусство костюма и текстиля</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>108</ID>
+    <Actual>true</Actual>
+    <Name>конструирование изделий легкой промышленности</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>109</ID>
+    <Actual>true</Actual>
+    <Name>технологии и проектирование текстильных изделий</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>110</ID>
+    <Actual>true</Actual>
+    <Name>технология изделий легкой промышленности</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>111</ID>
+    <Actual>true</Actual>
+    <Name>информационные системы и технологии</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>112</ID>
+    <Actual>true</Actual>
+    <Name>технология полиграфического и упаковочного производства</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>113</ID>
+    <Actual>true</Actual>
+    <Name>прикладная информатика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>18</ID>
+    <Actual>true</Actual>
+    <Name>Основы безопасности жизнедеятельности</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>115</ID>
+    <Actual>true</Actual>
+    <Name>механика и математическое моделирование</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>116</ID>
+    <Actual>true</Actual>
+    <Name>прикладная математика и физика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>117</ID>
+    <Actual>true</Actual>
+    <Name>фундаментальная и прикладная химия</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>118</ID>
+    <Actual>true</Actual>
+    <Name>мехатроника и робототехника</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>119</ID>
+    <Actual>true</Actual>
+    <Name>фундаментальная информатика и информационные технологии</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>120</ID>
+    <Actual>true</Actual>
+    <Name>прикладная математика и информатика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>122</ID>
+    <Actual>true</Actual>
+    <Name>системный анализ и управление</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>123</ID>
+    <Actual>true</Actual>
+    <Name>химия, физика и механика материалов</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>144</ID>
+    <Actual>true</Actual>
+    <Name>медицинская биохимия</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>63</ID>
+    <Actual>true</Actual>
+    <Name>Экология и природопользование</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>64</ID>
+    <Actual>true</Actual>
+    <Name>Зарубежное регионоведение</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>65</ID>
+    <Actual>true</Actual>
+    <Name>Международные отношения</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>68</ID>
+    <Actual>true</Actual>
+    <Name>Китайский язык</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>66</ID>
+    <Actual>true</Actual>
+    <Name>Политология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>67</ID>
+    <Actual>true</Actual>
+    <Name>Реклама и связи с общественностью</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>69</ID>
+    <Actual>true</Actual>
+    <Name>Философия</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>70</ID>
+    <Actual>true</Actual>
+    <Name>искусство концертного исполнительства</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>71</ID>
+    <Actual>true</Actual>
+    <Name>музыкознание и музыкально-прикладное искусство</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>72</ID>
+    <Actual>true</Actual>
+    <Name>музыковедение</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>78</ID>
+    <Actual>true</Actual>
+    <Name>графика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>Русский язык</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+  <Subject>
+    <ID>43</ID>
+    <Actual>true</Actual>
+    <Name>Информатика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>148</ID>
+    <Actual>true</Actual>
+    <Name>стоматология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>149</ID>
+    <Actual>true</Actual>
+    <Name>медико­профилактическое дело</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>150</ID>
+    <Actual>true</Actual>
+    <Name>клиническая психология</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>151</ID>
+    <Actual>true</Actual>
+    <Name>сестринское дело</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>152</ID>
+    <Actual>true</Actual>
+    <Name>психолого­педагогическое образование</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>153</ID>
+    <Actual>true</Actual>
+    <Name>педагогическое образование (с двумя профилями подготовки)</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>154</ID>
+    <Actual>true</Actual>
+    <Name>специальное (дефектологическое) образование</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>155</ID>
+    <Actual>true</Actual>
+    <Name>Электроника, радиотехника и система связи</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>156</ID>
+    <Actual>true</Actual>
+    <Name>строительство</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>157</ID>
+    <Actual>true</Actual>
+    <Name>оптические и биотехнические системы и технологии</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>158</ID>
+    <Actual>true</Actual>
+    <Name>науки о земле</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>159</ID>
+    <Actual>true</Actual>
+    <Name>ветеринария и зоотехния</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>160</ID>
+    <Actual>true</Actual>
+    <Name>физика и астрономия</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>161</ID>
+    <Actual>true</Actual>
+    <Name>оружие и системы вооружений</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>162</ID>
+    <Actual>true</Actual>
+    <Name>математика и механика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>163</ID>
+    <Actual>true</Actual>
+    <Name>профессиональное обучение (по отраслям)</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>164</ID>
+    <Actual>true</Actual>
+    <Name>прикладные математика и физика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>165</ID>
+    <Actual>true</Actual>
+    <Name>нанотехнологии и наноматериалы в технических системах</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>167</ID>
+    <Actual>true</Actual>
+    <Name>психология служебной деятельности</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>168</ID>
+    <Actual>true</Actual>
+    <Name>дизайн архитектурной среды</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>169</ID>
+    <Actual>true</Actual>
+    <Name>педагогическое образование (профиль «иностранный язык»)</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>170</ID>
+    <Actual>true</Actual>
+    <Name>живопись</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>171</ID>
+    <Actual>true</Actual>
+    <Name>композиция</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>172</ID>
+    <Actual>true</Actual>
+    <Name>рисунок</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>173</ID>
+    <Actual>true</Actual>
+    <Name>Проектная деятельность</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>174</ID>
+    <Actual>true</Actual>
+    <Name>Музыка</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>175</ID>
+    <Actual>true</Actual>
+    <Name>Предпрофильные курсы</Name>
+    <Olympic>false</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>176</ID>
+    <Actual>true</Actual>
+    <Name>реконструкция и реставрация архитектурного наследия</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>177</ID>
+    <Actual>true</Actual>
+    <Name>фундаментальная математика и механика</Name>
+    <Olympic>true</Olympic>
+    <Ege>false</Ege>
+  </Subject>
+  <Subject>
+    <ID>24</ID>
+    <Actual>true</Actual>
+    <Name>Английский язык</Name>
+    <Olympic>true</Olympic>
+    <Ege>true</Ege>
+  </Subject>
+</Subjects>

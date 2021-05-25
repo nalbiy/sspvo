@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OlympicDiplomaTypes>
+  <OlympicDiplomaType>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>призер</Name>
+  </OlympicDiplomaType>
+  <OlympicDiplomaType>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>победитель или призер</Name>
+  </OlympicDiplomaType>
+  <OlympicDiplomaType>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>победитель</Name>
+  </OlympicDiplomaType>
+</OlympicDiplomaTypes>

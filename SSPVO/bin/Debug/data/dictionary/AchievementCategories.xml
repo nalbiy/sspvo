@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AchievementCategories>
+  <AchievementCategory>
+    <ID>7</ID>
+    <Actual>true</Actual>
+    <Name>Победитель первенства Европы - лицо, занявшее первое место на первенстве Европы по видам спорта, включенным в программы Олимпийских игр, Паралимпийских игр и Сурдлимпийских игр</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>18</ID>
+    <Actual>true</Actual>
+    <Name>Победитель первенства мира - лицо, занявшее первое место на первенстве мира, не включенным в программы Олимпийских игр, Паралимпийских игр и Сурдлимпийских игр</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>14</ID>
+    <Actual>true</Actual>
+    <Name>Аттестат о среднем (полном) общем образовании, золотая медаль</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>20</ID>
+    <Actual>true</Actual>
+    <Name>Аттестата о среднем (полном) общем образовании с отличием</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>21</ID>
+    <Actual>true</Actual>
+    <Name>Диплома о начальном профессиональном образовании для награжденных золотой медалью</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>22</ID>
+    <Actual>true</Actual>
+    <Name>Диплома о начальном профессиональном образовании для награжденных серебряной медалью</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>6</ID>
+    <Actual>true</Actual>
+    <Name>Победитель первенства мира - лицо, занявшее первое место на первенстве мира, включенным в программы Олимпийских игр, Паралимпийских игр и Сурдлимпийских игр</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>19</ID>
+    <Actual>true</Actual>
+    <Name>Победитель первенства Европы - лицо, занявшее первое место на первенстве Европы по видам спорта, не включенным в программы Олимпийских игр, Паралимпийских игр и Сурдлимпийских игр</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>﻿Статус чемпиона и призера Олимпийских игр</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Статус чемпиона и призера Паралимпийских игр</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Статус чемпиона и призера Сурдлимпийских игр</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>Чемпион мира</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Name>Чемпион Европы</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>8</ID>
+    <Actual>true</Actual>
+    <Name>Золотой знак отличия ГТО</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>9</ID>
+    <Actual>true</Actual>
+    <Name>Аттестат о среднем общем образовании с отличием</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>10</ID>
+    <Actual>true</Actual>
+    <Name>Осуществление волонтерской деятельности</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>11</ID>
+    <Actual>true</Actual>
+    <Name>Участие в олимпиадах и иных конкурсах</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>12</ID>
+    <Actual>true</Actual>
+    <Name>Итоговое сочинение</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>13</ID>
+    <Actual>true</Actual>
+    <Name>Иное</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>17</ID>
+    <Actual>true</Actual>
+    <Name>Статус победителя чемпионата по профессиональному мастерству среди инвалидов и лиц с ограниченными возможностями здоровья "Абилимпикс"</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>15</ID>
+    <Actual>true</Actual>
+    <Name>Аттестат о среднем (полном) общем образовании, серебряная медаль</Name>
+  </AchievementCategory>
+  <AchievementCategory>
+    <ID>16</ID>
+    <Actual>true</Actual>
+    <Name>Диплом о среднем профессиональном образовании с отличием</Name>
+  </AchievementCategory>
+</AchievementCategories>

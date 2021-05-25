@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentTypes>
+  <DocumentType>
+    <ID>47</ID>
+    <Actual>false</Actual>
+    <Name>Удостоверение личности гражданина Российской Федерации в виде пластиковой карты</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>48</ID>
+    <Actual>true</Actual>
+    <Name>Свидетельство о предоставлении временного убежища</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Военный билет</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>43</ID>
+    <Actual>true</Actual>
+    <Name>Служебный паспорт</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>45</ID>
+    <Actual>true</Actual>
+    <Name>Разрешение на временное проживание</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>46</ID>
+    <Actual>true</Actual>
+    <Name>Удостоверение беженца</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>38</ID>
+    <Actual>true</Actual>
+    <Name>Вид на жительство</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>30</ID>
+    <Actual>true</Actual>
+    <Name>Иной документ</Name>
+    <IDCategory>6</IDCategory>
+    <IDSysCategory>6</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>31</ID>
+    <Actual>true</Actual>
+    <Name>Диплом чемпиона/призера Олимпийских игр</Name>
+    <IDCategory>7</IDCategory>
+    <IDSysCategory>6</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>42</ID>
+    <Actual>true</Actual>
+    <Name>Дипломатический паспорт</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Результат ЕГЭ</Name>
+    <IDCategory>2</IDCategory>
+    <IDSysCategory>12</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>22</ID>
+    <Actual>true</Actual>
+    <Name>Документ, подтверждающий принадлежность к сотрудникам государственных органов Российской Федерации</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>5</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>21</ID>
+    <Actual>true</Actual>
+    <Name>Документ, подтверждающий принадлежность родителей и опекунов к погибшим в связи с исполнением служебных обязанностей</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>9</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>17</ID>
+    <Actual>true</Actual>
+    <Name>Документ об участии в международной олимпиаде</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>3</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>36</ID>
+    <Actual>true</Actual>
+    <Name>Сочинение</Name>
+    <IDCategory>6</IDCategory>
+    <IDSysCategory>13</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>12</ID>
+    <Actual>true</Actual>
+    <Name>Академическая справка</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>27</ID>
+    <Actual>true</Actual>
+    <Name>Заключение психолого-медико-педагогической комиссии</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>6</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>10</ID>
+    <Actual>true</Actual>
+    <Name>Диплом о начальном профессиональном образовании</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Name>Справка об обучении в другом ВУЗе</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>20</ID>
+    <Actual>true</Actual>
+    <Name>Документ, подтверждающий наличие только одного родителя - инвалида I группы и принадлежность к числу малоимущих семей</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>6</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>37</ID>
+    <Actual>true</Actual>
+    <Name>Временное удостоверение личности</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>41</ID>
+    <Actual>true</Actual>
+    <Name>Другой документ</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>Паспорт гражданина Российской Федерации</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>13</ID>
+    <Actual>true</Actual>
+    <Name>Аттестат об основном общем образовании</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>23</ID>
+    <Actual>true</Actual>
+    <Name>Документ, подтверждающий участие в работах на радиационных объектах или воздействие радиации</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>11</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>35</ID>
+    <Actual>true</Actual>
+    <Name>Диплом чемпиона Европы</Name>
+    <IDCategory>7</IDCategory>
+    <IDSysCategory>6</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>39</ID>
+    <Actual>true</Actual>
+    <Name>Заграничный паспорт гражданина Российской Федерации</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>8</ID>
+    <Actual>true</Actual>
+    <Name>Диплом о высшем профессиональном образовании</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>25</ID>
+    <Actual>true</Actual>
+    <Name>Диплом победителя/призера всероссийской олимпиады школьников</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>3</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>24</ID>
+    <Actual>true</Actual>
+    <Name>Диплом победителя/призера олимпиады школьников</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>3</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>19</ID>
+    <Actual>true</Actual>
+    <Name>Документ, подтверждающий принадлежность к ветеранам боевых действий</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>2</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>15</ID>
+    <Actual>true</Actual>
+    <Name>Диплом кандидата наук</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>18</ID>
+    <Actual>true</Actual>
+    <Name>Документ, подтверждающий принадлежность к детям-сиротам и детям, оставшимся без попечения родителей</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>1</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>40</ID>
+    <Actual>true</Actual>
+    <Name>Паспорт гражданина иностранного государства</Name>
+    <IDCategory>1</IDCategory>
+    <IDSysCategory>10</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>9</ID>
+    <Actual>true</Actual>
+    <Name>Диплом о среднем профессиональном образовании</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>16</ID>
+    <Actual>true</Actual>
+    <Name>Диплом победителя/призера IV этапа всеукраинской ученической олимпиады</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>3</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>26</ID>
+    <Actual>true</Actual>
+    <Name>Справка об установлении инвалидности</Name>
+    <IDCategory>4</IDCategory>
+    <IDSysCategory>7</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>6</ID>
+    <Actual>true</Actual>
+    <Name>Иной документ об образовании</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>33</ID>
+    <Actual>true</Actual>
+    <Name>Диплом чемпиона/призера Сурдлимпийских игр</Name>
+    <IDCategory>7</IDCategory>
+    <IDSysCategory>6</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>Справка ГИА</Name>
+    <IDCategory>2</IDCategory>
+    <IDSysCategory>6</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>29</ID>
+    <Actual>true</Actual>
+    <Name>Документ, подтверждающий принадлежность к соотечественникам за рубежом</Name>
+    <IDCategory>5</IDCategory>
+    <IDSysCategory>8</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>34</ID>
+    <Actual>true</Actual>
+    <Name>Диплом чемпиона мира</Name>
+    <IDCategory>7</IDCategory>
+    <IDSysCategory>6</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>7</ID>
+    <Actual>true</Actual>
+    <Name>Аттестат о среднем (полном) общем образовании</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>28</ID>
+    <Actual>true</Actual>
+    <Name>Заключение об отсутствии противопоказаний для обучения</Name>
+    <IDCategory>5</IDCategory>
+    <IDSysCategory>6</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>32</ID>
+    <Actual>true</Actual>
+    <Name>Диплом чемпиона/призера Паралимпийских игр</Name>
+    <IDCategory>7</IDCategory>
+    <IDSysCategory>6</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>11</ID>
+    <Actual>true</Actual>
+    <Name>Диплом о неполном высшем профессиональном образовании</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+  <DocumentType>
+    <ID>14</ID>
+    <Actual>true</Actual>
+    <Name>Диплом об окончании аспирантуры (адъюнктуры)</Name>
+    <IDCategory>3</IDCategory>
+    <IDSysCategory>4</IDSysCategory>
+  </DocumentType>
+</DocumentTypes>

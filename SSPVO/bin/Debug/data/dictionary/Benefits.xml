@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Benefits>
+  <Benefit>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Приравнивание к лицам, успешно прошедшим дополнительные вступительные испытания</Name>
+    <ShortName>Без доп. испытаний</ShortName>
+  </Benefit>
+  <Benefit>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Приравнивание к лицам, набравшим максимальное количество баллов по ЕГЭ</Name>
+    <ShortName>Макс. баллы ЕГЭ</ShortName>
+  </Benefit>
+  <Benefit>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>По квоте приёма лиц, имеющих особое право</Name>
+    <ShortName>Квота приёма</ShortName>
+  </Benefit>
+  <Benefit>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Name>Преимущественное право на поступление</Name>
+    <ShortName>Преимущ. пр.</ShortName>
+  </Benefit>
+  <Benefit>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>Зачисление без вступительных испытаний</Name>
+    <ShortName>Без вступ. испытаний</ShortName>
+  </Benefit>
+</Benefits>

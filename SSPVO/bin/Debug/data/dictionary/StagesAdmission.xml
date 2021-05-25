@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StagesAdmission>
+  <StagesAdmission>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>1-я волна</Name>
+  </StagesAdmission>
+  <StagesAdmission>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>2-я волна</Name>
+  </StagesAdmission>
+  <StagesAdmission>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>Дополнительный набор</Name>
+  </StagesAdmission>
+  <StagesAdmission>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>0-я волна</Name>
+  </StagesAdmission>
+</StagesAdmission>

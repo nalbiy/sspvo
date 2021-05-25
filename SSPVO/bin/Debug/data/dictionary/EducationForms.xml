@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EducationForms>
+  <EducationForm>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Заочная форма обучения</Name>
+  </EducationForm>
+  <EducationForm>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Очно-заочная форма обучения</Name>
+  </EducationForm>
+  <EducationForm>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>Очная форма обучения</Name>
+  </EducationForm>
+</EducationForms>

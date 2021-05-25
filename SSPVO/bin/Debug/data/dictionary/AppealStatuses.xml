@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppealStatuses>
+  <AppealStatus>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>В процессе</Name>
+  </AppealStatus>
+  <AppealStatus>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Завершена</Name>
+  </AppealStatus>
+  <AppealStatus>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>Отсутствует</Name>
+  </AppealStatus>
+</AppealStatuses>

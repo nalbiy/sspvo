@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DisabilityTypes>
+  <DisabilityType>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>II</Name>
+  </DisabilityType>
+  <DisabilityType>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>III</Name>
+  </DisabilityType>
+  <DisabilityType>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Name>Инвалиды с детства</Name>
+  </DisabilityType>
+  <DisabilityType>
+    <ID>6</ID>
+    <Actual>true</Actual>
+    <Name>Инвалиды вследствие военной травмы</Name>
+  </DisabilityType>
+  <DisabilityType>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>Ребенок-инвалид</Name>
+  </DisabilityType>
+  <DisabilityType>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>I</Name>
+  </DisabilityType>
+</DisabilityTypes>

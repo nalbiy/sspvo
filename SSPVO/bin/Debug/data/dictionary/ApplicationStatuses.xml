@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationStatuses>
+  <ApplicationStatus>
+    <ID>18</ID>
+    <Actual>false</Actual>
+    <Code>entrant_agreed</Code>
+    <Name>Согласие абитуриента на зачисление</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>19</ID>
+    <Actual>false</Actual>
+    <Code>entrant_agreed_verify</Code>
+    <Name>Согласие подтверждено</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>20</ID>
+    <Actual>false</Actual>
+    <Code>entrant_agreed_call_off</Code>
+    <Name>Отзыв согласия на зачисление</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>21</ID>
+    <Actual>false</Actual>
+    <Code>app_call_off</Code>
+    <Name>Отзыв заявления абитуриентом</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>22</ID>
+    <Actual>false</Actual>
+    <Code>22</Code>
+    <Name>Ожидание подтверждения отзыва</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>23</ID>
+    <Actual>false</Actual>
+    <Code>23</Code>
+    <Name>Согласие отозвано</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>24</ID>
+    <Actual>false</Actual>
+    <Code>24</Code>
+    <Name>Заявление отозвано</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>25</ID>
+    <Actual>false</Actual>
+    <Code>25</Code>
+    <Name>Включен в приказ об отзыве заявления</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>26</ID>
+    <Actual>false</Actual>
+    <Code>26</Code>
+    <Name>Включен в приказ на зачисление</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>27</ID>
+    <Actual>false</Actual>
+    <Code>27</Code>
+    <Name>Данные заявления изменены</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>4</ID>
+    <Actual>false</Actual>
+    <Code>get_oovo</Code>
+    <Name>резерв</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Code>new</Code>
+    <Name>Новое</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Code>new_cheking</Code>
+    <Name>Принято к рассмотрению</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Code>send_oovo</Code>
+    <Name>Запрос дополнительных сведений</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>6</ID>
+    <Actual>true</Actual>
+    <Code>app_data_pre_check_fail</Code>
+    <Name>Назначена дата ВИ</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>7</ID>
+    <Actual>true</Actual>
+    <Code>app_data_check_fail</Code>
+    <Name>Выбор даты ВИ</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>8</ID>
+    <Actual>true</Actual>
+    <Code>docs_check_fail</Code>
+    <Name>Участвует в конкурсе</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>9</ID>
+    <Actual>true</Actual>
+    <Code>app_check_fail</Code>
+    <Name>Согласие</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>10</ID>
+    <Actual>true</Actual>
+    <Code>app_reject</Code>
+    <Name>Не прошло по конкурсу </Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>11</ID>
+    <Actual>true</Actual>
+    <Code>additional_info_wait</Code>
+    <Name>Включено в приказ на зачисление </Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>12</ID>
+    <Actual>true</Actual>
+    <Code>app_data_sucsfl</Code>
+    <Name>Отклонено</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>13</ID>
+    <Actual>true</Actual>
+    <Code>entrant_edit</Code>
+    <Name>Отзыв согласия </Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>14</ID>
+    <Actual>true</Actual>
+    <Code>app_edit</Code>
+    <Name>Отказ от зачисления</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>15</ID>
+    <Actual>true</Actual>
+    <Code>in_competition</Code>
+    <Name>Отзыв заявления</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>16</ID>
+    <Actual>true</Actual>
+    <Code>16</Code>
+    <Name>Согласие/Документ об образовании</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>17</ID>
+    <Actual>true</Actual>
+    <Code>service_denied</Code>
+    <Name>Отзыв согласие/Документ об образовании</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>28</ID>
+    <Actual>false</Actual>
+    <Code>28</Code>
+    <Name>Запрос данных для формирования личного дела</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>29</ID>
+    <Actual>false</Actual>
+    <Code>29</Code>
+    <Name>Получены запрошенные данные для формирования личного дела</Name>
+  </ApplicationStatus>
+  <ApplicationStatus>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Code>app_get_oovo</Code>
+    <Name>Редактирование профиля</Name>
+  </ApplicationStatus>
+</ApplicationStatuses>

@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Regions>
+  <Region>
+    <ID>28</ID>
+    <Actual>true</Actual>
+    <Code>28</Code>
+    <Name>Амурская область</Name>
+  </Region>
+  <Region>
+    <ID>29</ID>
+    <Actual>true</Actual>
+    <Code>29</Code>
+    <Name>Архангельская область</Name>
+  </Region>
+  <Region>
+    <ID>30</ID>
+    <Actual>true</Actual>
+    <Code>30</Code>
+    <Name>Астраханская область</Name>
+  </Region>
+  <Region>
+    <ID>31</ID>
+    <Actual>true</Actual>
+    <Code>31</Code>
+    <Name>Белгородская область</Name>
+  </Region>
+  <Region>
+    <ID>32</ID>
+    <Actual>true</Actual>
+    <Code>32</Code>
+    <Name>Брянская область</Name>
+  </Region>
+  <Region>
+    <ID>33</ID>
+    <Actual>true</Actual>
+    <Code>33</Code>
+    <Name>Владимирская область</Name>
+  </Region>
+  <Region>
+    <ID>34</ID>
+    <Actual>true</Actual>
+    <Code>34</Code>
+    <Name>Волгоградская область</Name>
+  </Region>
+  <Region>
+    <ID>35</ID>
+    <Actual>true</Actual>
+    <Code>35</Code>
+    <Name>Вологодская область</Name>
+  </Region>
+  <Region>
+    <ID>36</ID>
+    <Actual>true</Actual>
+    <Code>36</Code>
+    <Name>Воронежская область</Name>
+  </Region>
+  <Region>
+    <ID>37</ID>
+    <Actual>true</Actual>
+    <Code>37</Code>
+    <Name>Ивановская область</Name>
+  </Region>
+  <Region>
+    <ID>38</ID>
+    <Actual>true</Actual>
+    <Code>38</Code>
+    <Name>Иркутская область</Name>
+  </Region>
+  <Region>
+    <ID>14</ID>
+    <Actual>true</Actual>
+    <Code>14</Code>
+    <Name>Республика Саха (Якутия)</Name>
+  </Region>
+  <Region>
+    <ID>17</ID>
+    <Actual>true</Actual>
+    <Code>17</Code>
+    <Name>Республика Тыва</Name>
+  </Region>
+  <Region>
+    <ID>40</ID>
+    <Actual>true</Actual>
+    <Code>40</Code>
+    <Name>Калужская область</Name>
+  </Region>
+  <Region>
+    <ID>41</ID>
+    <Actual>true</Actual>
+    <Code>41</Code>
+    <Name>Камчатский край</Name>
+  </Region>
+  <Region>
+    <ID>39</ID>
+    <Actual>true</Actual>
+    <Code>39</Code>
+    <Name>Калининградская область</Name>
+  </Region>
+  <Region>
+    <ID>42</ID>
+    <Actual>true</Actual>
+    <Code>42</Code>
+    <Name>Кемеровская область</Name>
+  </Region>
+  <Region>
+    <ID>43</ID>
+    <Actual>true</Actual>
+    <Code>43</Code>
+    <Name>Кировская область</Name>
+  </Region>
+  <Region>
+    <ID>44</ID>
+    <Actual>true</Actual>
+    <Code>44</Code>
+    <Name>Костромская область</Name>
+  </Region>
+  <Region>
+    <ID>45</ID>
+    <Actual>true</Actual>
+    <Code>45</Code>
+    <Name>Курганская область</Name>
+  </Region>
+  <Region>
+    <ID>46</ID>
+    <Actual>true</Actual>
+    <Code>46</Code>
+    <Name>Курская область</Name>
+  </Region>
+  <Region>
+    <ID>47</ID>
+    <Actual>true</Actual>
+    <Code>47</Code>
+    <Name>Ленинградская область</Name>
+  </Region>
+  <Region>
+    <ID>48</ID>
+    <Actual>true</Actual>
+    <Code>48</Code>
+    <Name>Липецкая область</Name>
+  </Region>
+  <Region>
+    <ID>49</ID>
+    <Actual>true</Actual>
+    <Code>49</Code>
+    <Name>Магаданская область</Name>
+  </Region>
+  <Region>
+    <ID>25</ID>
+    <Actual>true</Actual>
+    <Code>25</Code>
+    <Name>Приморский край</Name>
+  </Region>
+  <Region>
+    <ID>26</ID>
+    <Actual>true</Actual>
+    <Code>26</Code>
+    <Name>Ставропольский край</Name>
+  </Region>
+  <Region>
+    <ID>27</ID>
+    <Actual>true</Actual>
+    <Code>27</Code>
+    <Name>Хабаровский край</Name>
+  </Region>
+  <Region>
+    <ID>50</ID>
+    <Actual>true</Actual>
+    <Code>50</Code>
+    <Name>Московская область</Name>
+  </Region>
+  <Region>
+    <ID>51</ID>
+    <Actual>true</Actual>
+    <Code>51</Code>
+    <Name>Мурманская область</Name>
+  </Region>
+  <Region>
+    <ID>52</ID>
+    <Actual>true</Actual>
+    <Code>52</Code>
+    <Name>Нижегородская область</Name>
+  </Region>
+  <Region>
+    <ID>53</ID>
+    <Actual>true</Actual>
+    <Code>53</Code>
+    <Name>Новгородская область</Name>
+  </Region>
+  <Region>
+    <ID>54</ID>
+    <Actual>true</Actual>
+    <Code>54</Code>
+    <Name>Новосибирская область</Name>
+  </Region>
+  <Region>
+    <ID>55</ID>
+    <Actual>true</Actual>
+    <Code>55</Code>
+    <Name>Омская область</Name>
+  </Region>
+  <Region>
+    <ID>56</ID>
+    <Actual>true</Actual>
+    <Code>56</Code>
+    <Name>Оренбургская область</Name>
+  </Region>
+  <Region>
+    <ID>57</ID>
+    <Actual>true</Actual>
+    <Code>57</Code>
+    <Name>Орловская область</Name>
+  </Region>
+  <Region>
+    <ID>58</ID>
+    <Actual>true</Actual>
+    <Code>58</Code>
+    <Name>Пензенская область</Name>
+  </Region>
+  <Region>
+    <ID>59</ID>
+    <Actual>true</Actual>
+    <Code>59</Code>
+    <Name>Пермский край</Name>
+  </Region>
+  <Region>
+    <ID>60</ID>
+    <Actual>true</Actual>
+    <Code>60</Code>
+    <Name>Псковская область</Name>
+  </Region>
+  <Region>
+    <ID>61</ID>
+    <Actual>true</Actual>
+    <Code>61</Code>
+    <Name>Ростовская область</Name>
+  </Region>
+  <Region>
+    <ID>62</ID>
+    <Actual>true</Actual>
+    <Code>62</Code>
+    <Name>Рязанская область</Name>
+  </Region>
+  <Region>
+    <ID>63</ID>
+    <Actual>true</Actual>
+    <Code>63</Code>
+    <Name>Самарская область</Name>
+  </Region>
+  <Region>
+    <ID>64</ID>
+    <Actual>true</Actual>
+    <Code>64</Code>
+    <Name>Саратовская область</Name>
+  </Region>
+  <Region>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Code>04</Code>
+    <Name>Республика Алтай</Name>
+  </Region>
+  <Region>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Code>03</Code>
+    <Name>Республика Бурятия</Name>
+  </Region>
+  <Region>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Code>05</Code>
+    <Name>Республика Дагестан</Name>
+  </Region>
+  <Region>
+    <ID>77</ID>
+    <Actual>true</Actual>
+    <Code>77</Code>
+    <Name>г. Москва</Name>
+  </Region>
+  <Region>
+    <ID>6</ID>
+    <Actual>true</Actual>
+    <Code>06</Code>
+    <Name>Республика Ингушетия</Name>
+  </Region>
+  <Region>
+    <ID>7</ID>
+    <Actual>true</Actual>
+    <Code>07</Code>
+    <Name>Кабардино-Балкарская Республика</Name>
+  </Region>
+  <Region>
+    <ID>8</ID>
+    <Actual>true</Actual>
+    <Code>08</Code>
+    <Name>Республика Калмыкия</Name>
+  </Region>
+  <Region>
+    <ID>9</ID>
+    <Actual>true</Actual>
+    <Code>09</Code>
+    <Name>Карачаево-Черкесская Республика</Name>
+  </Region>
+  <Region>
+    <ID>12</ID>
+    <Actual>true</Actual>
+    <Code>12</Code>
+    <Name>Республика Марий Эл</Name>
+  </Region>
+  <Region>
+    <ID>13</ID>
+    <Actual>true</Actual>
+    <Code>13</Code>
+    <Name>Республика Мордовия</Name>
+  </Region>
+  <Region>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Code>01</Code>
+    <Name>Республика Адыгея (Адыгея)</Name>
+  </Region>
+  <Region>
+    <ID>15</ID>
+    <Actual>true</Actual>
+    <Code>15</Code>
+    <Name>Республика Северная Осетия - Алания</Name>
+  </Region>
+  <Region>
+    <ID>16</ID>
+    <Actual>true</Actual>
+    <Code>16</Code>
+    <Name>Республика Татарстан (Татарстан)</Name>
+  </Region>
+  <Region>
+    <ID>18</ID>
+    <Actual>true</Actual>
+    <Code>18</Code>
+    <Name>Удмуртская Республика</Name>
+  </Region>
+  <Region>
+    <ID>19</ID>
+    <Actual>true</Actual>
+    <Code>19</Code>
+    <Name>Республика Хакасия</Name>
+  </Region>
+  <Region>
+    <ID>20</ID>
+    <Actual>true</Actual>
+    <Code>20</Code>
+    <Name>Чеченская Республика</Name>
+  </Region>
+  <Region>
+    <ID>21</ID>
+    <Actual>true</Actual>
+    <Code>21</Code>
+    <Name>Чувашская Республика - Чувашия</Name>
+  </Region>
+  <Region>
+    <ID>22</ID>
+    <Actual>true</Actual>
+    <Code>22</Code>
+    <Name>Алтайский край</Name>
+  </Region>
+  <Region>
+    <ID>23</ID>
+    <Actual>true</Actual>
+    <Code>23</Code>
+    <Name>Краснодарский край</Name>
+  </Region>
+  <Region>
+    <ID>24</ID>
+    <Actual>true</Actual>
+    <Code>24</Code>
+    <Name>Красноярский край</Name>
+  </Region>
+  <Region>
+    <ID>65</ID>
+    <Actual>true</Actual>
+    <Code>65</Code>
+    <Name>Сахалинская область</Name>
+  </Region>
+  <Region>
+    <ID>66</ID>
+    <Actual>true</Actual>
+    <Code>66</Code>
+    <Name>Свердловская область</Name>
+  </Region>
+  <Region>
+    <ID>67</ID>
+    <Actual>true</Actual>
+    <Code>67</Code>
+    <Name>Смоленская область</Name>
+  </Region>
+  <Region>
+    <ID>68</ID>
+    <Actual>true</Actual>
+    <Code>68</Code>
+    <Name>Тамбовская область</Name>
+  </Region>
+  <Region>
+    <ID>69</ID>
+    <Actual>true</Actual>
+    <Code>69</Code>
+    <Name>Тверская область</Name>
+  </Region>
+  <Region>
+    <ID>70</ID>
+    <Actual>true</Actual>
+    <Code>70</Code>
+    <Name>Томская область</Name>
+  </Region>
+  <Region>
+    <ID>71</ID>
+    <Actual>true</Actual>
+    <Code>71</Code>
+    <Name>Тульская область</Name>
+  </Region>
+  <Region>
+    <ID>72</ID>
+    <Actual>true</Actual>
+    <Code>72</Code>
+    <Name>Тюменская область</Name>
+  </Region>
+  <Region>
+    <ID>73</ID>
+    <Actual>true</Actual>
+    <Code>73</Code>
+    <Name>Ульяновская область</Name>
+  </Region>
+  <Region>
+    <ID>74</ID>
+    <Actual>true</Actual>
+    <Code>74</Code>
+    <Name>Челябинская область</Name>
+  </Region>
+  <Region>
+    <ID>75</ID>
+    <Actual>true</Actual>
+    <Code>75</Code>
+    <Name>Забайкальский край</Name>
+  </Region>
+  <Region>
+    <ID>76</ID>
+    <Actual>true</Actual>
+    <Code>76</Code>
+    <Name>Ярославская область</Name>
+  </Region>
+  <Region>
+    <ID>78</ID>
+    <Actual>true</Actual>
+    <Code>78</Code>
+    <Name>г. Санкт-Петербург</Name>
+  </Region>
+  <Region>
+    <ID>79</ID>
+    <Actual>true</Actual>
+    <Code>79</Code>
+    <Name>Еврейская автономная область</Name>
+  </Region>
+  <Region>
+    <ID>83</ID>
+    <Actual>true</Actual>
+    <Code>83</Code>
+    <Name>Ненецкий автономный округ</Name>
+  </Region>
+  <Region>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Code>02</Code>
+    <Name>Республика Башкортостан</Name>
+  </Region>
+  <Region>
+    <ID>11</ID>
+    <Actual>true</Actual>
+    <Code>11</Code>
+    <Name>Республика Коми</Name>
+  </Region>
+  <Region>
+    <ID>86</ID>
+    <Actual>true</Actual>
+    <Code>86</Code>
+    <Name>Ханты-Мансийский автономный округ - Югра</Name>
+  </Region>
+  <Region>
+    <ID>87</ID>
+    <Actual>true</Actual>
+    <Code>87</Code>
+    <Name>Чукотский автономный округ</Name>
+  </Region>
+  <Region>
+    <ID>89</ID>
+    <Actual>true</Actual>
+    <Code>89</Code>
+    <Name>Ямало-Ненецкий автономный округ</Name>
+  </Region>
+  <Region>
+    <ID>10</ID>
+    <Actual>true</Actual>
+    <Code>10</Code>
+    <Name>Республика Карелия</Name>
+  </Region>
+  <Region>
+    <ID>91</ID>
+    <Actual>true</Actual>
+    <Code>91</Code>
+    <Name>Республика Крым</Name>
+  </Region>
+  <Region>
+    <ID>92</ID>
+    <Actual>true</Actual>
+    <Code>92</Code>
+    <Name>г. Севастополь</Name>
+  </Region>
+  <Region>
+    <ID>99</ID>
+    <Actual>true</Actual>
+    <Code>99</Code>
+    <Name>образовательные учреждения, находящиеся за пределами Российской Федерации</Name>
+  </Region>
+</Regions>

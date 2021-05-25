@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DictionaryList>
+  <Dictionary>
+	<Index>1</Index>
+    <Name>Directions</Name>
+    <Description>Общероссийский классификатор специаль-ностей по образованию</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>2</Index>
+    <Name>CampaignTypes</Name>
+    <Description>Типы приемных компаний</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>3</Index>
+    <Name>CampaignStatuses</Name>
+    <Description>Статусы приемных компаний</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>4</Index>
+    <Name>Benefits</Name>
+    <Description>Справочник льгот</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>5</Index>
+    <Name>EducationForms</Name>
+    <Description>Формы образования</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>6</Index>
+    <Name>EducationLevels</Name>
+    <Description>Уровни образования ПК</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>7</Index>
+    <Name>EducationSources</Name>
+    <Description>Источник финансирования</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>8</Index>
+    <Name>EntranceTestTypes</Name>
+    <Description>Тип вступительного испытания</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>9</Index>
+    <Name>LevelsBudget</Name>
+    <Description>Уровни бюджета</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>10</Index>
+    <Name>OlympicDiplomaTypes</Name>
+    <Description>Типы дипломов олимпиад</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>11</Index>
+    <Name>OlympicLevels</Name>
+    <Description>Уровни олимпиад</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>12</Index>
+    <Name>Subjects</Name>
+    <Description>Образовательные предметы</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>13</Index>
+    <Name>EduLevelsCampaignTypes</Name>
+    <Description>Типы ПК по уровням образования</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>14</Index>
+    <Name>AchievementCategories</Name>
+    <Description>Категории индивидуальных достижений</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>15</Index>
+    <Name>ApplicationStatuses</Name>
+    <Description>Статусы заявлений</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>16</Index>
+    <Name>CompatriotCategories</Name>
+    <Description>Категории соотечественников</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>17</Index>
+    <Name>CompositionThemes</Name>
+    <Description>Темы сочинений</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>18</Index>
+    <Name>DisabilityTypes</Name>
+    <Description>Категории инвалидности</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>19</Index>
+    <Name>DocumentCategories</Name>
+    <Description>Категории документов</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>20</Index>
+    <Name>DocumentTypes</Name>
+    <Description>Типы документов</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>21</Index>
+    <Name>EntranceTestDocumentTypes</Name>
+    <Description>Типы документов вступительного испытания</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>22</Index>
+    <Name>EntranceTestResultSources</Name>
+    <Description>Источник результата вступительного испы-тания</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>23</Index>
+    <Name>Genders</Name>
+    <Description>Пол</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>24</Index>
+    <Name>MinScoreSubjects</Name>
+    <Description>Минимальное значение ЕГЭ по предметам</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>25</Index>
+    <Name>Okcms</Name>
+    <Description>Общероссийский классификатор стран мира</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>26</Index>
+    <Name>Oktmos</Name>
+    <Description>Справочник муниципалитетов (из ОКТМО)</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>27</Index>
+    <Name>OlympicMinEgeScores</Name>
+    <Description>Минимальное значение ЕГЭ для подтвер-ждения олимпиады</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>28</Index>
+    <Name>OrderAdmissionStatuses</Name>
+    <Description>Статус приказов</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>29</Index>
+    <Name>OrderAdmissionTypes</Name>
+    <Description>Типы приказов</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>30</Index>
+    <Name>OrphanCategories</Name>
+    <Description>Категория документов детей-сирот</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>31</Index>
+    <Name>ParentsLostCategories</Name>
+    <Description>Категории граждан, родители и опекуны ко-торых погибли при исполнении служебных обязанностей</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>32</Index>
+    <Name>RadiationWorkCategories</Name>
+    <Description>Категории граждан, участвовавших в рабо-тах на радиационных объектах или под-вергшихся воздействию радиации</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>33</Index>
+    <Name>Regions</Name>
+    <Description>Справочник регионов</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>34</Index>
+    <Name>ReturnTypes</Name>
+    <Description>Типы возврата документов</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>35</Index>
+    <Name>VeteranCategories</Name>
+    <Description>Категории граждан, участвовавших в бое-вых действиях</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>36</Index>
+    <Name>ViolationTypes</Name>
+    <Description>Тип нарушений в заявлении</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>37</Index>
+    <Name>OlympicsProfiles</Name>
+    <Description>Сведения об олимпиаде и ее организаторах</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>40</Index>
+    <Name>AppealStatuses</Name>
+    <Description>Статус апелляции</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>41</Index>
+    <Name>MilitaryCategories</Name>
+    <Description>Категории военнослужащих</Description>
+  </Dictionary>  
+  <Dictionary>
+	<Index>42</Index>
+    <Name>OlympicsList</Name>
+    <Description>Перечень олимпиад в Сервисе приема</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>43</Index>
+    <Name>OlympicsProfilesList</Name>
+    <Description>Перечень прифилей олимпиад в Сервисе приема</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>44</Index>
+    <Name>OlympicsProfilesSubjects</Name>
+    <Description>Сопоставление профилей олимпиады olympicsProfilesList с общеобразовательными предметами subject</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>45</Index>
+    <Name>OlympicTypes</Name>
+    <Description>Типы олимпиад</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>46</Index>
+    <Name>DocumentEducationLevels</Name>
+    <Description>Уровень образования по документу</Description>
+  </Dictionary>
+  <Dictionary>
+	<Index>47</Index>
+    <Name>StagesAdmission</Name>
+    <Description>Этапы зачисления</Description>
+  </Dictionary>
+  
+</DictionaryList>

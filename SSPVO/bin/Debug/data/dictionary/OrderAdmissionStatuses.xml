@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OrderAdmissionStatuses>
+  <OrderAdmissionStatus>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Не опубликован</Name>
+  </OrderAdmissionStatus>
+  <OrderAdmissionStatus>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Опубликован</Name>
+  </OrderAdmissionStatus>
+  <OrderAdmissionStatus>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>Удален</Name>
+  </OrderAdmissionStatus>
+  <OrderAdmissionStatus>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>Нет заявлений</Name>
+  </OrderAdmissionStatus>
+</OrderAdmissionStatuses>

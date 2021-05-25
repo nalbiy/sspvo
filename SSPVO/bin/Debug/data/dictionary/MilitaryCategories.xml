@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MilitaryCategories>
+  <MilitaryCategory>
+    <ID>1</ID>
+    <Actual>true</Actual>
+    <Name>﻿Контрактники, служащие (непрерывно) не менее трех лет</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>2</ID>
+    <Actual>true</Actual>
+    <Name>Призывники, имеющие рекомендации командиров</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>3</ID>
+    <Actual>true</Actual>
+    <Name>Контрактники, служащие не менее трех лет и уволенные по уважительным основаниям</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>4</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники Федеральной службы войск национальной гвардии РФ, служившие в условиях вооруженного конфликта в Чеченской Республике и на прилегающих территориях</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>9</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники Следственного комитета РФ</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>5</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники органов внутренних дел РФ, служившие в условиях вооруженного конфликта в Чеченской Республике и на прилегающих территориях</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>6</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники органов уголовно-исполнительной системы, служившие в условиях вооруженного конфликта в Чеченской Республике и на прилегающих территориях</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>7</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники федеральной противопожарной службы Государственной противопожарной службы, служившие в условиях вооруженного конфликта в Чеченской Республике и на прилегающих территориях</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>8</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники Федеральной службы войск национальной гвардии РФ, служившие в ходе контртеррористических операций на территории Северо-Кавказского региона</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>10</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудники органов внутренних дел РФ, служившие в ходе контртеррористических операций на территории Северо-Кавказского региона</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>11</ID>
+    <Actual>true</Actual>
+    <Name>Cотрудники органов уголовно-исполнительной системы, служившие в ходе контртеррористических операций на территории Северо-Кавказского региона</Name>
+  </MilitaryCategory>
+  <MilitaryCategory>
+    <ID>12</ID>
+    <Actual>true</Actual>
+    <Name>Сотрудникам федеральной противопожарной службы Государственной противопожарной службы, служивше в ходе контртеррористических операций на территории Северо-Кавказского региона</Name>
+  </MilitaryCategory>
+</MilitaryCategories>
